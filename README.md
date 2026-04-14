@@ -1,3 +1,2 @@
-# repo-for-4-14-26
-
-## I really tried my best but i dont think i can make the tests turn green. I dont understand. I thought i did everything right 
+<img width="707" height="249" alt="image" src="https://github.com/user-attachments/assets/3bca0150-be44-4461-9bfc-ebc673c4c714" />
+I didnt have enough time to do the last one... I was on the right track.  I used a lot of time trying to get the enviorment to work ): 
